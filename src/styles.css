@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+  background-color: black;
+  color: white;
+}
+.center{
+  text-align: center;
+}
+
+.password {
+  font-size : 70px;
+  text-align: center;
+}
+
+.picture {
+  align-text: center;
+  align-content: center;
+}
+
+.games {
+display: inline-block;
+}
+
+.letterBlock {
+  display: inline-block;
+  vertical-align: center;
+  font-size: 35px;
+  padding: 30px;
+  height: 20px;
+  width: 20px;
+  border-style: solid;
+  border-width: 10;
+  border-color: white;
+  border-radius: 30px;
+}
